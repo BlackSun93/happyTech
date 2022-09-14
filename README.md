@@ -167,8 +167,8 @@ The design and behaviour stage involved the creation of several diagrams and use
   <li><a href="HappyTech/Documentation/happytech_diagrams-eerd.png">Extended Entity Relationship Diagram</a></li>
   <li><a href="HappyTech/Documentation/happytech_diagrams-use-case.png">Use Case Diagrams</a></li>
   <li><a href="HappyTech/Documentation/happytech_diagrams-class.png">Class Diagram</a></li>
-  <li><a href="HappyTech/Documentation/happytech_user-stories.pdf">Sequence Diagrams</a></li>
-  <li><a href="HappyTech/Documentation/Sequences">User Stories</a></li>
+  <li><a href="HappyTech/Documentation/happytech_user-stories.pdf">User Stories</a></li>
+  <li><a href="HappyTech/Documentation/Sequences">Sequence Diagrams</a></li>
 </ul>
 
 <br>
