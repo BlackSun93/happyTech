@@ -199,12 +199,12 @@ Before development of the software began, a wireframe was created to layout the 
 
 <table align="center">
   <tr align="center">
-    <th><img src="https://github.com/BlackSun93.png" width="50"></th>
+    <th><img src="https://github.com/SunEmpire93.png" width="50"></th>
     <th><img src="https://github.com/SimoneCampo-SC.png" width="50"></th>
     <th><img src="https://github.com/omosborne.png" width="50"></th>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/BlackSun93">Kean</a></td>
+    <td><a href="https://github.com/SunEmpire93">Kean</a></td>
     <td><a href="https://github.com/SimoneCampo-SC">Simone</a></td>
     <td><a href="https://github.com/omosborne">Oliver</a></td>
   </tr>
